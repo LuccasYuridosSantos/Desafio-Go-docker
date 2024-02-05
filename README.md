@@ -6,4 +6,4 @@
 
 3. A imagem deve ter menos de 2MB, o que pode ser alcançado utilizando imagens oficiais da Go Lang e o sistema de arquivos em camadas.
 
-[link](doc:linking-to-pages#anchor-links)
+[Docker Hub](doc:linking-to-pages#anchor-links)
